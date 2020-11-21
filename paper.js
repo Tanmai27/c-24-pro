@@ -1,0 +1,17 @@
+class Paper{
+constructor(){
+
+
+
+
+
+}
+}
+
+
+
+
+
+
+
+
